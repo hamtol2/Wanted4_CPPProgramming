@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance", "Inheritance\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polymorphism", "Polymorphism\Polymorphism.vcxproj", "{20B19CCE-0DAC-4847-B7D6-15343938D947}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.vcxproj", "{75B4C2E5-4D9C-4983-B05B-B823852F578B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{20B19CCE-0DAC-4847-B7D6-15343938D947}.Release|x64.Build.0 = Release|x64
 		{20B19CCE-0DAC-4847-B7D6-15343938D947}.Release|x86.ActiveCfg = Release|Win32
 		{20B19CCE-0DAC-4847-B7D6-15343938D947}.Release|x86.Build.0 = Release|Win32
+		{75B4C2E5-4D9C-4983-B05B-B823852F578B}.Debug|x64.ActiveCfg = Debug|x64
+		{75B4C2E5-4D9C-4983-B05B-B823852F578B}.Debug|x64.Build.0 = Debug|x64
+		{75B4C2E5-4D9C-4983-B05B-B823852F578B}.Debug|x86.ActiveCfg = Debug|Win32
+		{75B4C2E5-4D9C-4983-B05B-B823852F578B}.Debug|x86.Build.0 = Debug|Win32
+		{75B4C2E5-4D9C-4983-B05B-B823852F578B}.Release|x64.ActiveCfg = Release|x64
+		{75B4C2E5-4D9C-4983-B05B-B823852F578B}.Release|x64.Build.0 = Release|x64
+		{75B4C2E5-4D9C-4983-B05B-B823852F578B}.Release|x86.ActiveCfg = Release|Win32
+		{75B4C2E5-4D9C-4983-B05B-B823852F578B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
